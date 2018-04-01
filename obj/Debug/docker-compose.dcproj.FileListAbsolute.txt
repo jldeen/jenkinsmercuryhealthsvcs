@@ -1,0 +1,2 @@
+C:\Users\abel\Source\AbelSquidhead\MercuryHealthServices\MercuryHealthServices\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\abel\Source\AbelSquidhead\MercuryHealthServices\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

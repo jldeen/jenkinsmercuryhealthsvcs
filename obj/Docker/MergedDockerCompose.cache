@@ -1,0 +1,11 @@
+services:
+  mercuryhealthservices:
+    build:
+      context: C:\Users\abel\Source\AbelSquidhead\MercuryHealthServices
+      dockerfile: MercuryHealthServices/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: mercuryhealthservices
+    ports:
+    - 80/tcp
+version: '3.0'
